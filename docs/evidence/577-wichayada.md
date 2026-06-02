@@ -7,8 +7,8 @@
 Team 11 — UX/UI Design / Backend Support
 
 ## Evidence link
-- Repository: 
-- Evidence File: 
+- Repository: https://github.com/Wichayada577/github101-practice.git
+- Evidence File: https://github.com/Wichayada577/github101-practice/edit/main/docs/evidence/577-wichayada.md
 
 ## Reflection
 วันนี้ฉันเรียนรู้อะไรจากการใช้ GitHub: ได้เรียนรู้วิธีการ Fork โครงการเพื่อนำมาแก้ไขงานของตัวเอง, วิธีการแก้ไขและเขียนตารางบน Markdown รวมถึงการ Commit งานอย่างมีความหมายและการรวบรวมลิงก์ส่งงานอย่างเป็นระบบ
