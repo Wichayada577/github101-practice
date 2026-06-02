@@ -20,7 +20,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 ให้นิสิตเพิ่มข้อมูลของตนเองในตารางนี้ แล้วใส่ link ไปยังไฟล์ evidence และ issue ของตนเอง
 
 | Name | Team | Role | Evidence File | Issue Link |
-|---|---|---|---|---|
+| วิชญาดา ถิ่นแก้ว | Team 11 | Ux/Ui Design | กำลังทำ | กำลังทำ |
 | Example Student | Team 00 | Demo | [example evidence](docs/evidence/example-student.md) | - |
 
 ---
